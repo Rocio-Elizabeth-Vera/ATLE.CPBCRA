@@ -1,0 +1,137 @@
+header{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	background-color: rgb(8, 0, 0);
+	width:100%;
+}
+a:link{
+	text-decoration:none;
+}
+header ul{
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+header ul li{
+	margin: 10px;
+}
+img{
+	width: 150px;
+}
+h1{
+	font-size: 34px;
+	color: rgb(35,35,72);
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	justify-content: center;
+	align-items: center;
+}
+p{
+	font-size: 20px;
+}
+#presentacion{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px 15px 10px 15px;
+}
+.contenedor{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	margin: 10px 15px 10px 15px;
+}
+.contenedor-2{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	margin: 10px 0 10px 0;
+}
+.caja{
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 10px 15px 10px 15px;
+}
+
+.caja img{
+	border-radius: 50%;
+}
+#novedades{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	margin: 10px 0 10px 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#hoja{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px 15px 10px 15px;
+}
+#dondeencontrarnos {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#circuito{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+footer{
+	background-color: rgb(141, 136, 136);
+}
+#circuito img{
+	width: 300px;
+}
+.carousel-control-prev{
+	padding: 100px 10px
+}
+#novedades-2{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#presentacion img{
+	width: 400px;
+	height: 200px;
+}
+#hoja img{
+	width: 400px;
+	height: 200px;
+}
+#lanzar{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#salto{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#pista{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+
